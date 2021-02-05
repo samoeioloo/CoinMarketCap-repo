@@ -1,0 +1,5 @@
+btc 1.75
+luna 3.33
+eth 24
+ltc 2.5
+neo 6
