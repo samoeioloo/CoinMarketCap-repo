@@ -9,7 +9,7 @@ Get notified when cryptocurrencies hit certain prices in USD. You can keep this 
 # 3: A Top 100 Cryptocurrency Ranking App
 Sort by rank, daily percentage change, or daily volume. Positive and negative values are color coated green and red.
 
-# 4:Predict The Future Values of the Top 100 Cryptocurrencies
+# 4: Predict The Future Values of the Top 100 Cryptocurrencies
 Explore what the price of cryptocurrencies will be if the global market cap hits certain levels (such as world stock market levels)
 
 # 5: Store Real-Time Information on 1000 Cryptocurrencies in Excel Using Python
